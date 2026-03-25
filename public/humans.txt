@@ -1,0 +1,15 @@
+/* TEAM */
+Designer: Tianxiong Zhong
+Contact: t.zhong@hm.edu
+LinkedIn: linkedin.com/in/tianxiong-zhong
+Instagram: instagram.com/baerchenphoto
+Location: München, Germany
+
+/* SITE */
+Standards: HTML5, CSS3, ES2022
+Framework: Next.js 16
+Language: TypeScript
+Styling: Tailwind CSS v4
+Animation: Framer Motion
+Fonts: Barlow (Google Fonts)
+Rendering: Static Site Generation

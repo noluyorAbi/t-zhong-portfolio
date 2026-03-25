@@ -1,0 +1,50 @@
+# Tianxiong Zhong - Design Portfolio
+
+> Portfolio website of Tianxiong Zhong, a design student at Hochschule München (Munich University of Applied Sciences), Germany.
+
+## About
+
+Tianxiong Zhong is a design student specializing in transportation design, industrial design, illustration, and furniture design. Before studying design, he worked as an automotive engineer, combining technical expertise with creative expression. He is also passionate about photography and visual storytelling.
+
+## Contact
+
+- Email: t.zhong@hm.edu
+- Phone: +49 176-3066-0547
+- Address: Lothstraße 17, 80335 München, Germany
+- LinkedIn: https://www.linkedin.com/in/tianxiong-zhong
+- Instagram: https://www.instagram.com/baerchenphoto
+
+## Projects
+
+### Tesla Cyberrad
+- Category: Transportation Design
+- URL: /projects/tesla
+- Description: A futuristic motorcycle concept inspired by Tesla's Cybertruck design language. Explores angular geometry and electric powertrain integration in two-wheeled mobility.
+
+### Readymade Motorcycle
+- Category: Transportation Design
+- URL: /projects/readymade
+- Description: A motorcycle design concept that reimagines the readymade philosophy in industrial design, combining found objects with purposeful engineering.
+
+### The Book of Time
+- Category: Illustration
+- URL: /projects/illustration
+- Description: An illustrated book project exploring the concept of time through visual storytelling and artistic expression.
+
+### LittleEasy Table
+- Category: Furniture Design
+- URL: /projects/little
+- Description: A minimalist table design focusing on simplicity, functionality, and elegant form. Easy to assemble, easy to live with.
+
+## Pages
+
+- Homepage: /
+- Design Projects: /design
+- Contact: /contact
+- Impressum: /impressum
+
+## Technical
+
+- Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion
+- Static site generation for optimal performance
+- Responsive design for all devices

@@ -1,0 +1,73 @@
+# Tianxiong Zhong - Design Portfolio (Full Context)
+
+> Complete information about the portfolio website of Tianxiong Zhong, a design student at Hochschule München.
+
+## Person
+
+Name: Tianxiong Zhong
+Role: Design Student
+University: Hochschule München (Munich University of Applied Sciences)
+University URL: https://design.hm.edu/
+Location: München (Munich), Germany
+Background: Former automotive engineer turned design student
+Interests: Photography, visual storytelling, transportation design
+
+## Contact Information
+
+Email: t.zhong@hm.edu
+Phone: +49 176-3066-0547
+Street: Lothstraße 17
+City: München
+Postal Code: 80335
+Country: Germany
+
+## Social Profiles
+
+- LinkedIn: https://www.linkedin.com/in/tianxiong-zhong
+- Instagram: https://www.instagram.com/baerchenphoto (photography)
+
+## Design Expertise
+
+1. Transportation Design - Motorcycle concepts, automotive-inspired design
+2. Industrial Design - Product design with engineering precision
+3. Illustration - Visual storytelling, book illustration
+4. Furniture Design - Minimalist, functional furniture
+
+## Portfolio Projects
+
+### 1. Tesla Cyberrad (Transportation Design)
+URL: https://t-zhong.de/projects/tesla
+A futuristic motorcycle concept inspired by Tesla's Cybertruck design language. The project explores angular geometry and electric powertrain integration in two-wheeled mobility. Features concept sketches, 3D renders, and design development documentation.
+
+### 2. Readymade Motorcycle (Transportation Design)
+URL: https://t-zhong.de/projects/readymade
+A motorcycle design concept that reimagines the readymade philosophy in industrial design. The project combines found objects with purposeful engineering to create a unique two-wheeled vehicle that challenges conventional motorcycle design.
+
+### 3. The Book of Time (Illustration)
+URL: https://t-zhong.de/projects/illustration
+An extensive illustrated book project exploring the concept of time through visual storytelling and artistic expression. Contains 25 illustrated pages showcasing diverse illustration techniques and narrative design.
+
+### 4. LittleEasy Table (Furniture Design)
+URL: https://t-zhong.de/projects/little
+A minimalist table design focusing on simplicity, functionality, and elegant form. The project emphasizes ease of assembly and living, with clean lines and thoughtful material choices.
+
+## Site Structure
+
+- / - Homepage with about section and project showcases
+- /design - Grid view of all design projects
+- /contact - Contact information and social links
+- /projects/tesla - Tesla Cyberrad project detail
+- /projects/readymade - Readymade Motorcycle project detail
+- /projects/illustration - The Book of Time project detail
+- /projects/little - LittleEasy Table project detail
+- /impressum - Legal notice (German law requirement)
+
+## Technical Implementation
+
+Framework: Next.js 16 (App Router)
+Language: TypeScript
+Styling: Tailwind CSS v4
+Animations: Framer Motion
+Fonts: Barlow (Google Fonts, self-hosted)
+Rendering: Static Site Generation (SSG)
+SEO: JSON-LD structured data, Open Graph, Twitter Cards, sitemap.xml

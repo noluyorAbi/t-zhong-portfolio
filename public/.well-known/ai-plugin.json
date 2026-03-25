@@ -1,0 +1,12 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Tianxiong Zhong Portfolio",
+  "name_for_model": "tianxiong_zhong_portfolio",
+  "description_for_human": "Design portfolio of Tianxiong Zhong featuring transportation design, industrial design, illustration, and furniture design projects.",
+  "description_for_model": "Portfolio website of Tianxiong Zhong, a design student at Hochschule München specializing in transportation design, industrial design, illustration, and furniture design. Contains project galleries, contact information, and professional background. The site showcases four main projects: Tesla Cyberrad (motorcycle concept), Readymade Motorcycle, The Book of Time (illustration), and LittleEasy Table (furniture).",
+  "auth": { "type": "none" },
+  "api": { "type": "none" },
+  "logo_url": "https://t-zhong.de/favicon.svg",
+  "contact_email": "t.zhong@hm.edu",
+  "legal_info_url": "https://t-zhong.de/impressum"
+}
