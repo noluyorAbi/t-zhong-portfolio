@@ -24,11 +24,12 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Tianxiong Zhong - Design Portfolio",
-    template: "%s | Tianxiong Zhong",
+    default:
+      "Tianxiong Zhong — Transportation & Industrial Design Portfolio",
+    template: "%s | Tianxiong Zhong Design Portfolio",
   },
   description:
-    "Portfolio of Tianxiong Zhong — Transportation Design, Industrial Design, Illustration & Furniture Design student at Hochschule München.",
+    "Explore the design portfolio of Tianxiong Zhong — Transportation Design, Industrial Design, Illustration & Furniture Design projects by a Hochschule München student and former automotive engineer.",
   keywords: [
     "Tianxiong Zhong",
     "design portfolio",
@@ -66,25 +67,27 @@ export const metadata: Metadata = {
     alternateLocale: "de_DE",
     url: siteUrl,
     siteName: "Tianxiong Zhong Portfolio",
-    title: "Tianxiong Zhong - Design Portfolio",
+    title:
+      "Tianxiong Zhong — Transportation & Industrial Design Portfolio",
     description:
-      "Transportation Design, Industrial Design, Illustration & Furniture Design by Tianxiong Zhong.",
+      "Explore Tianxiong Zhong's design portfolio — Tesla Cyberrad, Readymade Motorcycle, Book of Time illustration & LittleEasy Table by a Hochschule München student.",
     images: [
       {
-        url: "/og-image.png",
+        url: `${siteUrl}/og-image.png`,
         width: 1200,
         height: 630,
-        alt: "Tianxiong Zhong - Design Portfolio",
+        alt: "Tianxiong Zhong — Design Portfolio featuring Transportation, Industrial, Illustration & Furniture Design",
         type: "image/png",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Tianxiong Zhong - Design Portfolio",
+    title:
+      "Tianxiong Zhong — Transportation & Industrial Design Portfolio",
     description:
-      "Transportation Design, Industrial Design, Illustration & Furniture Design.",
-    images: ["/og-image.png"],
+      "Explore Tianxiong Zhong's design portfolio — Tesla Cyberrad, Readymade Motorcycle, Book of Time illustration & LittleEasy Table by a Hochschule München student.",
+    images: [`${siteUrl}/og-image.png`],
   },
   alternates: {
     canonical: siteUrl,
