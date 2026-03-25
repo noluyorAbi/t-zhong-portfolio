@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="public/favicon.svg" alt="TZ Logo" width="80" height="80" />
+<img src="public/og-image.png" alt="Tianxiong Zhong — Design Portfolio" width="720" />
+
+<br />
+
+<img src="public/favicon.svg" alt="TZ Logo" width="56" height="56" />
 
 # Tianxiong Zhong — Design Portfolio
 
